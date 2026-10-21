@@ -1,0 +1,24 @@
+# Flutter/Dart generated files
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+coverage/
+
+# Android/Gradle generated files and local SDK paths
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# Signing keys and local secrets
+*.jks
+*.keystore
+.env
+.env.*
